@@ -1,0 +1,25 @@
+{
+  "hash": "38ec9448",
+  "configHash": "e6b627e6",
+  "lockfileHash": "87933876",
+  "browserHash": "7560f374",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+core@19.2.25_rxjs@7.8.2_zone.js@0.15.1/node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "47d3f3f7",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/.pnpm/@angular+platform-browser@19.2.25_@angular+animations@19.2.25_@angular+common@19.2.25_@_03920cd03c489213fb05b5fcb604c13f/node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "8f8adee4",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-LCBBUCNW": {
+      "file": "chunk-LCBBUCNW.js"
+    }
+  }
+}
